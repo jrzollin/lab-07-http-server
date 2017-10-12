@@ -7,5 +7,10 @@
     "test": "mocha"
   },
   "author": "jrzollin@yahoo.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "cowsay": "^1.2.1"
+  }
 }
